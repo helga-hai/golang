@@ -1,5 +1,4 @@
 ![Alt text](https://s3bucket-oregon-us-west-2.s3.us-west-2.amazonaws.com/diagram.svg)
-<img src="https://s3bucket-oregon-us-west-2.s3.us-west-2.amazonaws.com/diagram.svg">
 
 
 # DevOps Technical Task
