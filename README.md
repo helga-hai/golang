@@ -1,3 +1,7 @@
+![Alt text](https://s3bucket-oregon-us-west-2.s3.us-west-2.amazonaws.com/diagram.svg)
+<img src="https://s3bucket-oregon-us-west-2.s3.us-west-2.amazonaws.com/diagram.svg">
+
+
 # DevOps Technical Task
 
  All infrastructure components advised to be represented as code, and provisioning of resources should be automated as much as possible.
